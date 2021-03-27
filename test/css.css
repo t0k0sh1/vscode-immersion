@@ -1,0 +1,16 @@
+/* comment */
+.someClass {
+  font-family: serif;
+}
+
+#someID {
+  background: yellow;
+}
+
+main {
+  margin-top: 20px;
+}
+
+a:hover {
+  text-decoration: underline;
+}

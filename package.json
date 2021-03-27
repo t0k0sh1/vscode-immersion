@@ -1,0 +1,22 @@
+{
+    "name": "immersion",
+    "displayName": "Immersion Theme",
+    "description": "Color theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "t0k0sh1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Immersion Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/t0k0sh1-immersion-dark-color-theme.json"
+            }
+        ]
+    }
+}
