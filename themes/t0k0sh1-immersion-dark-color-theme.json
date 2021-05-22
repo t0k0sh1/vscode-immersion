@@ -1,7 +1,7 @@
 {
   "name": "Immersion(Dark)",
   "type": "dark",
-  //          lt      s
+  //          lt          s
   // red:     #C8787A #C13547
   // orange:  #D59369 #D1691B
   // yellow:  #CCB664 #D2B700
@@ -18,42 +18,68 @@
   //          #EEEEEE 200   3
   //          #F5F5F5 100   4
   // white:   #FFFFFF
-  // 
+
+  //          lt      s
+  // red:     #C8787A #C13547
+  // orange:  #D59369 #D1691B
+  // yellow:  #CCB664 #D2B700
+  // green:   #76AB63 #1A9700
+  // cyan:    #499B95 #007B75
+  // blue:    #517F9C #00608E
+  // violet:  #B7B3CC #4B488E
+  // megenta: #9E6D8F #8D3978
+  // black:   #010408 -> #010408
+  //          #1F2023
+  //          #27292D
+  //          #2D2F34
+  //          #38384D
+
+  //          #212121 900 4
+  //          #424242 800 3
+  //          #757575 600 2 1
+  //          #BDBDBD 400 1 2
+  //          #EEEEEE 200   3
+  //          #F5F5F5 100   4
+  // white:   #FFFFFFA6
+  // 010F29
+  // F7F6EB
+
+  //
   "colors": {
-    "activityBar.activeBorder": "#000000",
-    "activityBar.background": "#000000",
-    "activityBar.dropBorder": "#000000",
-    "activityBar.foreground": "#BDBDBD",
+    "activityBar.activeBorder": "#010408",
+    "activityBar.background": "#010408",
+    "activityBar.dropBorder": "#010408",
+    "activityBar.foreground": "#FFFFFFA6",
     "activityBar.inactiveForeground": "#757575",
     "activityBarBadge.background": "#00608E",
-    "activityBarBadge.foreground": "#BDBDBD",
+    "activityBarBadge.foreground": "#FFFFFFA6",
     "badge.background": "#00608E",
-    "badge.foreground": "#BDBDBD",
-    "breadcrumb.activeSelectionForeground": "#BDBDBD",
-    "breadcrumb.background": "#000000",
-    "breadcrumb.focusForeground": "#BDBDBD",
+    "badge.foreground": "#FFFFFFA6",
+    "breadcrumb.activeSelectionForeground": "#FFFFFFA6",
+    "breadcrumb.background": "#010408",
+    "breadcrumb.focusForeground": "#FFFFFFA6",
     "breadcrumb.foreground": "#757575",
     "breadcrumbPicker.background": "#212121",
     "button.background": "#00608E",
-    "button.foreground": "#BDBDBD",
+    "button.foreground": "#FFFFFFA6",
     "button.hoverBackground": "#517F9C",
     "charts.blue": "#00608E",
-    "charts.foreground": "#BDBDBD",
+    "charts.foreground": "#FFFFFFA6",
     "charts.green": "#1A9700",
-    "charts.lines": "#BDBDBD",
+    "charts.lines": "#FFFFFFA6",
     "charts.orange": "#D1691B",
     "charts.purple": "#4B488E",
     "charts.red": "#C13547",
     "charts.yellow": "#D2B700",
-    "editor.background": "#000000",
-    "editor.foreground": "#BDBDBD",
+    "editor.background": "#010408",
+    "editor.foreground": "#FFFFFFA6",
     "editor.lineHighlightBackground": "#212121",
-    "editor.lineHighlightBorder": "#000000",
+    "editor.lineHighlightBorder": "#010408",
     "editorGroup.emptyBackground": "#212121",
     "editorGroupHeader.noTabsBackground": "#212121",
     "editorGroupHeader.tabsBackground": "#212121",
-    "editorGutter.background": "#000000",
-    "editorLineNumber.activeForeground": "#BDBDBD",
+    "editorGutter.background": "#010408",
+    "editorLineNumber.activeForeground": "#FFFFFFA6",
     "editorLineNumber.foreground": "#757575",
     "gitDecoration.conflictingResourceForeground": "#B7B3CC",
     "gitDecoration.deletedResourceForeground": "#C8787A",
@@ -62,39 +88,36 @@
     "gitDecoration.stageDeletedResourceForeground": "#B7B3CC",
     "gitDecoration.stageModifiedResourceForeground": "#D59369",
     "gitDecoration.submoduleResourceForeground": "#76AB63",
-    "gitDecoration.untrackedResourceForeground": "#BDBDBD",
+    "gitDecoration.untrackedResourceForeground": "#FFFFFFA6",
     "menubar.selectionBackground": "#00608E",
-    "panel.background": "#000000",
-    "panel.border": "#000000",
-    "scrollbar.shadow": "#000000",
-    "sideBar.background": "#000000",
-    "sideBar.foreground": "#BDBDBD",
+    "panel.background": "#010408",
+    "panel.border": "#010408",
+    "scrollbar.shadow": "#010408",
+    "sideBar.background": "#010408",
+    "sideBar.foreground": "#FFFFFFA6",
     "sideBarSectionHeader.background": "#212121",
     "sideBarSectionHeader.border": "#212121",
-    "sideBarTitle.foreground": "#BDBDBD",
-    "statusBar.background": "#000000",
+    "sideBarTitle.foreground": "#FFFFFFA6",
+    "statusBar.background": "#010408",
     "statusBar.debuggingBackground": "#1A9700",
-    "statusBar.noFolderBackground": "#000000",
+    "statusBar.noFolderBackground": "#010408",
     "statusBarItem.errorBackground": "#C13547",
     "statusBarItem.hoverBackground": "#A7BFD2",
     "statusBarItem.remoteBackground": "#499B95",
-    "tab.activeBackground": "#000000",
-    "tab.activeForeground": "#BDBDBD",
+    "tab.activeBackground": "#010408",
+    "tab.activeForeground": "#FFFFFFA6",
     "tab.border": "#212121",
     "tab.inactiveBackground": "#212121",
     "tab.inactiveForeground": "#757575",
-    "terminal.background": "#000000",
-    "terminal.foreground": "#BDBDBD",
-    "window.activeBorder": "#000000",
-    "window.inactiveBorder": "#000000",
+    "terminal.background": "#010408",
+    "terminal.foreground": "#FFFFFFA6",
+    "window.activeBorder": "#010408",
+    "window.inactiveBorder": "#010408"
   },
   "tokenColors": [
     {
       "name": "Comment",
-      "scope": [
-        "comment",
-        "punctuation.definition.comment"
-      ],
+      "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#424242"
@@ -102,11 +125,7 @@
     },
     {
       "name": "Keyword, Storage",
-      "scope": [
-        "keyword",
-        "storage.type",
-        "storage.modifier",
-      ],
+      "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
         "foreground": "#517F9C"
       }
@@ -131,7 +150,7 @@
       "scope": [
         "string",
         "constant.other.symbol",
-        "entity.other.inherited-class",
+        "entity.other.inherited-class"
       ],
       "settings": {
         "foreground": "#76AB63"
@@ -207,6 +226,6 @@
       "settings": {
         "foreground": "#76AB63"
       }
-    },
+    }
   ]
 }
