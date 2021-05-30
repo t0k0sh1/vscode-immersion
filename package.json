@@ -2,7 +2,7 @@
   "name": "immersion",
   "displayName": "Immersion Theme",
   "description": "Color theme for Visual Studio Code",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "t0k0sh1",
   "repository": {
     "type": "git",
